@@ -1,0 +1,65 @@
+.aidah-wrapper{
+    display:flex;
+    color: #555459;
+    flex-direction:column;
+    align-items:center;
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    width: 66.13%;
+    max-width: 540px;
+    margin: 45px auto 2rem;
+    padding: 2rem 2rem 1.5rem;
+    border-radius: .25rem;
+    box-shadow: 0 1px 0 rgba(0,0,0,.25);
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+.aidah-btn{
+    border: 0 none;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 30px 15px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: .25rem;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    transition-property: border,background,color;
+    transition-duration: .05s;
+    transition-timing-function: ease-in-out;
+    border: 1px solid #44bec7;
+}
+.aidah-inbox{
+    color: #555459;
+    background-color:#44bec7;
+}
+
+.aidah-btn:hover{
+    background-color:#44bec7;
+    color:white;
+}
+.aidah-title{
+  color: #555459;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+}
+.aidah-subtitle{
+    color: #555459;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 12px 0 26px;
+}
+
+.aidah-lovin{
+    font-size: 14px;
+    margin: 12px 0 26px;
+}
+.aidah-main-wrap{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
